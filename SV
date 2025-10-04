@@ -1,6 +1,2 @@
 kpahvn sv2:14.225.207.172:19130:0@
-Tiên Du:sv.kpah2.me:19129:0@
-Chu Tước:103.90.225.144:19129:0@
-Plus 1:ip.kpahplus.top:19129:0@
-Plus 2:ip.kpahplus.top:19131:0@
-Plus Đua Top Ngày:14.225.230.171:19130:0
+Tiên Du:sv.kpah2.me:19129:0
